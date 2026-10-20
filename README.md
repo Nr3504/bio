@@ -1,3 +1,2 @@
-# Biológia
-#Poznámky a projekty z biológie
+# Biológia - poznámky a projekty z biológie
 Pravidelne aktualizované, skrátené a upravené.
